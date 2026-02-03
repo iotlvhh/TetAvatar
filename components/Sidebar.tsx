@@ -30,7 +30,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
     <div className="w-full lg:w-1/3 bg-white p-6 shadow-xl border-r border-red-100 flex flex-col h-full overflow-y-auto">
       <div className="mb-6 text-center">
         <h1 className="text-3xl font-bold text-red-700 mb-1">Tết Avatar Studio</h1>
-        <p className="text-amber-600 text-sm font-medium">Tạo ảnh đại diện Tết ấn tượng bằng AI</p>
+        <p className="text-amber-600 text-sm font-medium">Mr Công sẽ giúp bạn tạo ảnh Avatar Tết ấn tượng</p>
       </div>
 
       <div className="space-y-6 pb-20">
